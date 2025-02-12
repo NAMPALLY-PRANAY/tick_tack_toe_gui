@@ -1,5 +1,5 @@
 
-```markdown
+
 # Tic-Tac-Toe Game with Tkinter
 
 This is a simple Tic-Tac-Toe game built using Python's `Tkinter` library. The game allows users to play against the computer with three different difficulty levels: **Easy**, **Medium**, and **Hard**. The game board is displayed using a GUI, and the player can click on the grid to make moves.
@@ -16,13 +16,15 @@ Before running the game, make sure you have Python 3.x and Tkinter installed.
 
 To install Tkinter (if not already installed), you can use the following:
 
-```bash
+```
 # For Ubuntu/Debian-based systems:
 sudo apt-get install python3-tk
-
+```
+```
 # For macOS:
 brew install python-tk
-
+```
+```
 # For Windows, Tkinter comes bundled with Python.
 ```
 
