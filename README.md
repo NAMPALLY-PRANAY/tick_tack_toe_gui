@@ -33,7 +33,7 @@ brew install python-tk
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/NAMPALLY-PRANAY/tick_tack_toe_gui.git
 cd tic-tac-toe
 ```
 
@@ -67,8 +67,8 @@ python tic_tac_toe.py
 ## Example Screenshots
 
 ### Game 
-![Easy Mode Screenshot]([![image](https://github.com/user-attachments/assets/978cdfd5-ccc5-4702-b8e4-8fbe3dd736c7)
-])
+![Ticktac TOe Interface](https://github.com/user-attachments/assets/978cdfd5-ccc5-4702-b8e4-8fbe3dd736c7)
+
 
 ## Contributing
 
