@@ -67,7 +67,8 @@ python tic_tac_toe.py
 ## Example Screenshots
 
 ### Game 
-![Easy Mode Screenshot](![image](https://github.com/user-attachments/assets/f84417cb-195a-47cb-9ce6-f210689ae528))
+![Easy Mode Screenshot]([![image](https://github.com/user-attachments/assets/978cdfd5-ccc5-4702-b8e4-8fbe3dd736c7)
+])
 
 ## Contributing
 
