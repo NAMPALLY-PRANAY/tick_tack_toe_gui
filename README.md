@@ -67,7 +67,7 @@ python tic_tac_toe.py
 ## Example Screenshots
 
 ### Game 
-![Easy Mode Screenshot](![image](https://github.com/user-attachments/assets/646bf34d-7450-47c9-8b43-b0538c9478d0))
+![Easy Mode Screenshot](![image](https://github.com/user-attachments/assets/f84417cb-195a-47cb-9ce6-f210689ae528))
 
 ## Contributing
 
@@ -84,11 +84,10 @@ If you'd like to contribute to this project, feel free to fork the repository an
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
 Enjoy playing Tic-Tac-Toe! 🕹️
-```
 
-### Instructions:
+
+##Instructions:
 
 - **Easy Mode**: The computer makes random moves and doesn’t strategize.
 - **Medium Mode**: The computer tries to block you from winning but is still imperfect.
